@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import './Pagination.css';
 
 const Pagination = (props) => {

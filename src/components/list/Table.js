@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import './Table.css';
 import { withRouter } from 'react-router-dom';
 import { renderChangePercent } from '../../helpers';

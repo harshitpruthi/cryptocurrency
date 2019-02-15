@@ -1,11 +1,11 @@
-import React, { Component } from 'react';
+import React from 'react';
 import {handleResponse} from '../../helpers';
 import {API_URL} from '../../config';
 import Loading from '../common/Loading';
 import Table from './Table';
 import Pagination from './Pagination';
 
-class List extends Component {
+class List extends React.Component {
     constructor(){
         super();
 

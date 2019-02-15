@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import './Detail.css';
 import Loading from '../common/Loading';
 import {API_URL} from '../../config';
